@@ -9,15 +9,25 @@ We use the Bank Marketing Dataset from the UCI Machine Learning Repository. This
 
 ✅ Key Features:
 Age
+
 Job
+
 Marital status
+
 Education
+
 Default
+
 Balance
+
 Housing loan
+
 Personal loan
+
 Contact communication type
+
 Last contact day/month/duration
+
 Previous campaign outcomes
 
 🛠️ Tools & Technologies
